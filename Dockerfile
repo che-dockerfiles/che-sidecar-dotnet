@@ -8,7 +8,7 @@
 # Contributors:
 #   Red Hat, Inc. - initial API and implementation
 
-FROM mcr.microsoft.com/dotnet/core/sdk:3.1.301-buster
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1.401-buster
 
 ENV HOME=/home/theia
 
